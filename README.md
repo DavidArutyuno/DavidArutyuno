@@ -1,9 +1,5 @@
 ## Header
-<h1 align="center">
-  <span style="color:#FFFFFF; text-shadow: 2px 2px 0 #58A6FF, 4px 4px 0 #010409;">
-    David Arutyunov
-  </span>
-</h1>
+[![Header](https://github.com/DavidArutyuno/DavidArutyuno/blob/main/assets/header.png)](https://github.com/DavidArutyuno/DavidArutyuno/blob/main/assets/header.png)
 
 
 
