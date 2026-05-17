@@ -20,11 +20,11 @@ Python выбрал за сочетание выразительности и п
 -->
 
 <!-- Languages and Tools -->
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="left">🛠️ Languages and Tools</h2>
 
 <!-- Основные инструменты -->
-<h3 align="center">Core Stack</h3>
-<p align="center">
+<h3 align="left">Core Stack</h3>
+<p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white">
@@ -33,8 +33,8 @@ Python выбрал за сочетание выразительности и п
 </p>
 
 <!-- Базы данных и ORM -->
-<h3 align="center">Databases & ORM</h3>
-<p align="center">
+<h3 align="left">Databases & ORM</h3>
+<p align="left">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
     <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=python&logoColor=white">
@@ -42,15 +42,15 @@ Python выбрал за сочетание выразительности и п
 </p>
 
 <!-- Веб-фреймворки -->
-<h3 align="center">Web Frameworks</h3>
-<p align="center">
+<h3 align="left">Web Frameworks</h3>
+<p align="left">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </p>
 
 <!-- Тестирование и парсинг -->
-<h3 align="center">Testing & Parsing</h3>
-<p align="center">
+<h3 align="left">Testing & Parsing</h3>
+<p align="left">
     <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
     <img src="https://img.shields.io/badge/Unittest-FF6600?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white">
@@ -58,8 +58,8 @@ Python выбрал за сочетание выразительности и п
 </p>
 
 <!-- DevOps и инструменты -->
-<h3 align="center">DevOps & Tools</h3>
-<p align="center">
+<h3 align="left">DevOps & Tools</h3>
+<p align="left">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
     <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -69,8 +69,8 @@ Python выбрал за сочетание выразительности и п
 </p>
 
 <!-- Дополнительно -->
-<h3 align="center">Also familiar with</h3>
-<p align="center">
+<h3 align="left">Also familiar with</h3>
+<p align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
